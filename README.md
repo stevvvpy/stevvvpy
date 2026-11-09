@@ -1,6 +1,6 @@
 <img src="photo.png" width="140" align="right" alt="Steven"/>
-
 # Hai, saya Steven 👋
+
 
 **Mahasiswa Sains Data UNESA (semester 3)** yang fokus pada deep learning untuk klasifikasi gambar dan teks.
 Saya suka belajar hal baru lewat praktik langsung: yang penting jalan, efisien, dan hasilnya terukur.
@@ -22,7 +22,7 @@ Tiga kompetisi data mining tingkat nasional, semuanya berbasis deep learning. Ko
 
 | Kompetisi | Tugas | Pendekatan | Hasil |
 |---|---|---|---|
-| **INFEST** | Image classification | DINO (fine-tuning), penanganan class imbalance | Penyisihan, peringkat **31 dari 89 tim** · [Sertifikat](ISI_LINK_SERTIFIKAT) |
+| **INFEST** | Image classification | DINO (fine-tuning), penanganan class imbalance | Penyisihan, peringkat **31 dari 89 tim** · [Sertifikat](https://drive.google.com/file/d/16lxTXY2BjMiBvxsSUAWoTnHSHQS7RM8X/view?usp=sharing) |
 | **DATASCAPE** | Image classification | DINO, dikerjakan **secara individu** (kompetisi tim) | Penyisihan |
 | **Action UNESA** | Text classification | IndoBERT, IndoBERTweet, XLM-R | Penyisihan |
 
@@ -73,18 +73,17 @@ Game tebak angka sederhana dengan Python. Dibuat untuk melatih logika dasar dan 
 
 ### 📊 Dashboard Visualisasi Data
 [dashboard_visualiate_data](https://github.com/stevvvpy/dashboard_visualiate_data)
-[ISI: 1 kalimat tentang data dan insight yang ditampilkan]
+Visualisasi data pelanggan menggunakan bahasa pemrograman Python dengan Streamlit sebagai tempat deploy.
 
 ### 🏠 Kaggle Learn: Housing Prices
 [Housing-Prices-Competition-for-Kaggle-Learn-Users](https://github.com/stevvvpy/Housing-Prices-Competition-for-Kaggle-Learn-Users)
-Regresi prediksi harga rumah. [ISI: skor/metode jika ada]
+Regresi prediksi harga rumah. Model yang digunakan adalah model dengan skor tertinggi yaitu XGboost
 
 ---
 
 ## 🎓 Pendidikan dan Pelatihan
 - **S1 Sains Data, Universitas Negeri Surabaya** (2025–sekarang, semester 3)
-- **IDCAMP × Dicoding (Semester 1–2):** supervised dan unsupervised machine learning · [Sertifikat](ISI_LINK)
-- **METC (Semester 2):** fundamental Generative AI, pemrosesan data, Microsoft Fabric, membangun aplikasi dengan Azure · [Sertifikat](ISI_LINK)
+- **IDCAMP × Dicoding (Semester 1–2):** supervised dan unsupervised machine learning · [Sertifikat](https://drive.google.com/file/d/16lxTXY2BjMiBvxsSUAWoTnHSHQS7RM8X/view?usp=sharing)
 
 ---
 
@@ -96,6 +95,3 @@ Regresi prediksi harga rumah. [ISI: skor/metode jika ada]
 ## 📬 Kontak
 Tertarik berkolaborasi, magang, atau proyek freelance? Hubungi saya lewat [LinkedIn](https://www.linkedin.com/in/steven-liwang-946866383).
 
-<!-- Statistik GitHub (opsional, aktifkan setelah punya beberapa commit):
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stevvvpy&show_icons=true&hide_border=true)
--->

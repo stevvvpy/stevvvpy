@@ -1,14 +1,16 @@
+<img src="photo.png" width="140" align="right" alt="Steven"/>
 **🇮🇩 Bahasa Indonesia** · [🇬🇧 English](README.en.md)
 
 # Hai, saya Steven 👋
 
-<img src="photo.png" width="140" align="right" alt="Steven"/>
+
 
 **Mahasiswa Sains Data UNESA (semester 3)** yang fokus pada machine learning dan deep learning untuk klasifikasi data tabular, gambar, dan teks.
 Saya suka belajar hal baru lewat praktik langsung: yang penting jalan, efisien, dan hasilnya terukur.
 
 📫 [LinkedIn](https://www.linkedin.com/in/steven-liwang-946866383) · 🎯 Terbuka untuk **magang** dan **proyek freelance** di bidang data science / machine learning
 
+<br clear="right"/>
 ---
 
 ## 🔭 Yang sedang saya kerjakan

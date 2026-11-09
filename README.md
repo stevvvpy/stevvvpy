@@ -1,6 +1,4 @@
-<!-- FOTO (opsional): taruh di sini, contoh:
-<img src="URL_FOTO" width="140" align="right" alt="Steven"/>
--->
+<img src="photo.png" width="140" align="right" alt="Steven"/>
 
 # Hai, saya Steven 👋
 

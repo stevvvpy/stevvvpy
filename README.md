@@ -2,7 +2,7 @@
 # Hai, saya Steven 👋
 
 
-**Mahasiswa Sains Data UNESA (semester 3)** yang fokus pada deep learning untuk klasifikasi gambar dan teks.
+**Mahasiswa Sains Data UNESA (semester 3)** yang fokus pada machine learning dan deep learning untuk klasifikasi data tabular, gambar, dan teks.
 Saya suka belajar hal baru lewat praktik langsung: yang penting jalan, efisien, dan hasilnya terukur.
 
 📫 [LinkedIn](https://www.linkedin.com/in/steven-liwang-946866383) · 🎯 Terbuka untuk **magang** dan **proyek freelance** di bidang data science / machine learning

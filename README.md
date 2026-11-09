@@ -65,7 +65,7 @@ Proyek clustering dan klasifikasi yang disusun sistematis dan lolos penilaian re
 
 ### 🧮 Struktur Data dan Algoritma: Proyek Akhir
 [Struktur-Data-dan-Algoritma](https://github.com/stevvvpy/Struktur-Data-dan-Algoritma)
-Proyek akhir mata kuliah Struktur Data dan Algoritma, ditulis dengan Python. Data yang dipakai sintetis. [ISI: 1 kalimat tentang apa yang dibangun dan struktur data/algoritma utamanya]
+Proyek akhir mata kuliah Struktur Data dan Algoritma, ditulis dengan Python. Data yang dipakai sintetis. Proyek ini menggunakan linked list untuk mencari hubungan antar target.
 
 ### 🎮 Number Guess (Python)
 [Number-Guess](https://github.com/stevvvpy/Number-Guess)

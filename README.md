@@ -59,7 +59,7 @@ Tiga kompetisi data mining tingkat nasional, semuanya berbasis deep learning. Ko
 ## 📁 Proyek Pilihan
 
 ### ⭐ Machine Learning Pipeline (IDCAMP × Dicoding)
-[Dicoding-Indonesia-Bootccamp-Project](https://github.com/stevvvpy/Dicoding-Indonesia-Bootccamp-Project)
+[Dicoding-Indonesia-Bootcamp-Project](https://github.com/stevvvpy/Dicoding-Indonesia-Bootcamp-Project)
 Proyek clustering dan klasifikasi yang disusun sistematis dan lolos penilaian reviewer, dengan **continuous integration**. Data yang dipakai sintetis, fokusnya pada kerapian alur dan praktik rekayasa.
 `Python` `scikit-learn` `Clustering` `Classification` `CI`
 

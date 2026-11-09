@@ -1,5 +1,5 @@
-<img src="photo.png" width="140" align="right" alt="Steven"/>
 **🇮🇩 Bahasa Indonesia** · [🇬🇧 English](README.en.md)
+<img src="photo.png" width="140" align="right" alt="Steven"/>
 # Hai, saya Steven 👋
 
 

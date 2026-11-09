@@ -2,7 +2,7 @@
 
 [🇮🇩 Bahasa Indonesia](README.md) · **🇬🇧 English**
 
-# Hi, I'm Steven 👋
+### Hi, I'm Steven 👋
 
 **Data Science student at Universitas Negeri Surabaya (UNESA), 3rd semester,** focused on machine learning and deep learning for tabular, image, and text classification.
 I learn by doing: it should work, it should be efficient, and the results should be measurable.

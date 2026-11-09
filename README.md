@@ -83,7 +83,7 @@ Regresi prediksi harga rumah. Model yang digunakan adalah model dengan skor tert
 
 ## 🎓 Pendidikan dan Pelatihan
 - **S1 Sains Data, Universitas Negeri Surabaya** (2025–sekarang, semester 3)
-- **IDCAMP × Dicoding (Semester 1–2):** supervised dan unsupervised machine learning · [Sertifikat](https://drive.google.com/file/d/16lxTXY2BjMiBvxsSUAWoTnHSHQS7RM8X/view?usp=sharing)
+- **IDCAMP × Dicoding (Semester 1–2):** supervised dan unsupervised machine learning · [Sertifikat](https://drive.google.com/drive/folders/1-LEiUgEaFJ1d5T3y-s93KRboi-m7ojgc?usp=sharing)
 
 ---
 

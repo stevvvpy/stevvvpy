@@ -10,8 +10,8 @@ Saya suka belajar hal baru lewat praktik langsung: yang penting jalan, efisien, 
 ---
 
 ## 🔭 Yang sedang saya kerjakan
-- Memperdalam fine-tuning model vision (DINO) dan NLP bahasa Indonesia (IndoBERT, IndoBERTweet)
-- Merapikan kode proyek kompetisi menjadi studi kasus yang bisa dibaca
+- Memperdalam Machine Learning (XGBoost), fine-tuning model vision (DINO) dan NLP bahasa Indonesia (IndoBERT, IndoBERTweet)
+- Membuat dan menjelajahi proyek berbasis studi kasus yang bisa dibaca
 - Belajar membawa model ke aplikasi (Streamlit, Docker)
 
 ---
@@ -80,7 +80,24 @@ Visualisasi data pelanggan menggunakan bahasa pemrograman Python dengan Streamli
 Regresi prediksi harga rumah. Model yang digunakan adalah model dengan skor tertinggi yaitu XGboost
 
 ---
+## 💼 Freelance
 
+Saya menerima proyek data skala kecil sampai menengah. Saya masih mahasiswa, jadi saya menjaga ruang lingkup tetap jelas dan rutin memberi kabar progres.
+
+**Yang bisa saya bantu**
+- **Pembersihan data dan EDA:** merapikan data tabular yang berantakan dan merangkumnya menjadi temuan yang jelas
+- **Dashboard:** dashboard data interaktif dengan Python dan Streamlit
+- **Model prediktif:** klasifikasi, regresi, dan clustering dengan scikit-learn dan XGBoost
+- **Prototipe klasifikasi teks dan gambar:** fine-tuning model pretrained (IndoBERT, DINO)
+
+**Cara kerja saya**
+1. Kita sepakati dulu tujuan, data, dan hasil yang diharapkan.
+2. Versi pertama yang berjalan saya kirim cepat, lalu kita perbaiki bersama.
+3. Anda menerima kode yang rapi dan terdokumentasi, plus ringkasan hasil.
+
+📩 Untuk memulai proyek, kirim pesan lewat [LinkedIn](https://www.linkedin.com/in/steven-liwang-946866383) dengan deskripsi singkat data dan tujuan Anda.
+
+---
 ## 🎓 Pendidikan dan Pelatihan
 - **S1 Sains Data, Universitas Negeri Surabaya** (2025–sekarang, semester 3)
 - **IDCAMP × Dicoding (Semester 1–2):** supervised dan unsupervised machine learning · [Sertifikat](https://drive.google.com/drive/folders/1-LEiUgEaFJ1d5T3y-s93KRboi-m7ojgc?usp=sharing)

@@ -1,4 +1,5 @@
 <img src="photo.png" width="140" align="right" alt="Steven"/>
+
 **🇮🇩 Bahasa Indonesia** · [🇬🇧 English](README.en.md)
 
 ### Hai, saya Steven 👋
